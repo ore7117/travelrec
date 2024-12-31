@@ -1,0 +1,33 @@
+{
+  "name": "travel-recommendation-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "18": "^0.0.0",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.4",
+    "@mui/material": "^6.1.4",
+    "argon2": "^0.27.2",
+    "axios": "^1.7.4",
+    "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.9",
+    "openai": "^4.62.1",
+    "react-markdown": "^9.0.1",
+    "react-select": "^5.8.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "nodemon": "^2.0.15",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
+  }
+}
